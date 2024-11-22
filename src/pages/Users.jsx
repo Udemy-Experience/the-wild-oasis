@@ -1,5 +1,5 @@
-import Heading from "../ui/Heading";
 import SignupForm from "../features/authentication/SignupForm";
+import Heading from "../ui/Heading";
 
 function NewUsers() {
   return (
