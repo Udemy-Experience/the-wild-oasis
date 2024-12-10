@@ -93,6 +93,11 @@ We welcome contributions! Please follow these steps:
 
 ### See images from the live view: 
 
+![image](https://github.com/user-attachments/assets/d3cc21db-8675-49cf-83f1-101bcce55dc2)
+
+![image](https://github.com/user-attachments/assets/14531fa1-f5e8-42fa-8924-0932ac931dc4)
+
+
 ![Screenshot 2024-12-10 153336](https://github.com/user-attachments/assets/514a2389-dd7b-4eff-82b0-b7cffaf0c41e)
 
 ![Screenshot 2024-12-10 153347](https://github.com/user-attachments/assets/e859354f-5c91-4e8d-8314-c164e10e245c)
