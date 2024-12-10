@@ -1,4 +1,7 @@
-![The_Wild_Oasis 🌴](https://github.com/user-attachments/assets/dff8803d-de6e-4edb-8731-665dc35dd1dd)
+<div align="center">
+   
+   ![The_Wild_Oasis 🌴](https://github.com/user-attachments/assets/dff8803d-de6e-4edb-8731-665dc35dd1dd)
+</div>
 
    ![GitHub repo size](https://img.shields.io/github/repo-size/BaraSedih11/the-wild-oasis) ![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/BaraSedih11/the-wild-oasis) 
  ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BaraSedih11/the-wild-oasis/main)
