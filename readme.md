@@ -44,6 +44,7 @@ Follow these steps to run the project locally:
    ```
 
 4. **Open the project in your browser: Navigate to [Live view](https://the-wild-oasis-bara.netlify.app/).**
+   Use email : `test@test.com`, password: `12341234`
 
 ### 📂 Project Structure
   ```plaintext
