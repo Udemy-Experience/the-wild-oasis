@@ -1,13 +1,14 @@
 <div align="center">
    
    ![The_Wild_Oasis 🌴](https://github.com/user-attachments/assets/dff8803d-de6e-4edb-8731-665dc35dd1dd)
-</div>
 
    ![GitHub repo size](https://img.shields.io/github/repo-size/BaraSedih11/the-wild-oasis) ![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/BaraSedih11/the-wild-oasis) 
  ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BaraSedih11/the-wild-oasis/main)
 [![Version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/BaraSedih/the-wild-oasis/releases/tag/v1.0.0)
 [![Contributors](https://img.shields.io/github/contributors/BaraSedih11/the-wild-oasis)](https://github.com/BaraSedih11/the-wild-oasis/graphs/contributors)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/BaraSedih11/the-wild-oasis)
+
+</div>
 
 Welcome to **The Wild Oasis**, a unique and vibrant digital destination! This project represents a virtual camping experience, blending creativity and technology to bring the essence of the outdoors into the digital world.
 
