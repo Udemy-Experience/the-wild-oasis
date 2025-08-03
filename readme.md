@@ -14,14 +14,12 @@ Welcome to **The Wild Oasis**, a unique and vibrant digital destination! This pr
 
 ## 🌟 Features
 
-- **Immersive Camping Scene**: A 3D representation of a serene camping spot.
 - **Interactive Elements**: Explore and interact with various features of the scene.
 - **Engaging Design**: A focus on aesthetics and smooth user experience.
 - **Responsive Layout**: Optimized for both desktop and mobile devices.
 
 ## 🚀 Technologies Used
 
-- **Three.js**: For creating the stunning 3D visualizations.
 - **JavaScript/TypeScript**: Core scripting languages for functionality.
 - **HTML & CSS**: To structure and style the website.
 - **Modern Development Practices**: Includes modular code structure and best practices for scalability.
